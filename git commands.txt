@@ -2,3 +2,4 @@ git init-- It will creates a new git repository
 git add --adds a change in the working directory to the staging area
 git status--displays the state of the working directory and the staging area
 git commit-- what you'll use to take all of the changes that have been made locally and push them up to a remote repository
+git log-- displays committed snapshots
